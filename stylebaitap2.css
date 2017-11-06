@@ -1,37 +1,36 @@
-.banner {
+.banner { 
     height: 600px;
     background:#b0b8b9;
 }
 
-.form1 {
+.form-first {
     background: #e2534b;
     width: 455px;
     margin: auto;
     border-radius: 5px;
 }
-.form2 
-{
+.form-second{
     background: #3f4646;
     padding: 2px 30px;
     margin-top: 30px;
     border-radius: 5px;
 }
-.line1 {
+.line-first {
     font-size: 54px;
     color: white;
     text-decoration: none;
     margin-left: 16px;
 
 }
-.line2 {
+.line-second {
     font-size: 22px;
     text-decoration: none;
     color: white;
 }
-.load_img {
+.load-img {
     text-decoration: none;    
 }
-.position_img {
+.position-img {
     margin: 10px 10px;
 }    
 .back {
@@ -62,7 +61,7 @@
     background: #f3f3f3;
     padding-top: 1px;
 }
-.top_service {
+.top-service {
     display: flex;
     width: 1463.2px;
     background: #ececec;
@@ -71,32 +70,32 @@
     margin-top: 50px;
     border-radius: 5px;
 }
-.title_service {
+.title-service {
 
     list-style: none;
     margin-left: 10px;
 }
-.view_more {
+.view-more {
     margin: 22px 0 32px 125px;
     padding: 20px 38px;
     background: #e2534b;
     border-radius: 5px;
 }
-.title_service1 {
+.title-service1 {
     color:#7f8c8c;
     font-size: 24px;
     height: 38px;
 }
-.title_service2 {
+.title-service2 {
     color: #777777;
     font-size: 15px;
 }
-.view_more a {
+.view-more a {
     text-decoration: none;
     font-size: 20px;
     color: white;
 }
-.read_more {
+.read-more {
     display: flex;
     width: 1463.2px;
     justify-content: space-between;
@@ -106,12 +105,12 @@
 }
 /* read more first*/
 
-.frame_read_more1 {
+.frame-read-diffrent {
     height: 346px;
     background: white;
     border-radius: 5px;
 }
-.button_read1 {
+.button-read1 {
     background:#e2534b;
     padding: 3px 10px;
     margin: -33px 35px 0 35px;
@@ -120,33 +119,35 @@
 
 /*same same*/
 
-.read_mores {
+.read-mores {
     width: 325px;
 }
 
-.frame_read_more {
+.frame-read-more {
     height: 346px;
     background: #f8f8f8;
     border-radius: 5px;
 }
-.logo_read img {
+.logo-read img {
     margin: 50px 0 0 118px;
 }
-.logo_read p {
+.logo-read p {
     font-size: 20px;
 }
-.write_read p {
+.write-read p {
     font-size: 14px;
     margin-top: 25px;
     line-height: 23px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
-.button_read {
+.button-read {
     background:#76c7c0;
     padding: 3px 10px;
     margin: -33px 35px 0 35px;
     border-radius: 5px;
 }
-.link_button_read {
+.link-button-read {
     text-decoration: none;
     font-size: 18px;
     color: white;
