@@ -1,0 +1,154 @@
+.banner { 
+    height: 600px;
+    background:#b0b8b9;
+}
+
+.form-first {
+    background: #e2534b;
+    width: 455px;
+    margin: auto;
+    border-radius: 5px;
+}
+.form-second{
+    background: #3f4646;
+    padding: 2px 30px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.line-first {
+    font-size: 54px;
+    color: white;
+    text-decoration: none;
+    margin-left: 16px;
+
+}
+.line-second {
+    font-size: 22px;
+    text-decoration: none;
+    color: white;
+}
+.load-img {
+    text-decoration: none;    
+}
+.position-img {
+    margin: 10px 10px;
+}    
+.back {
+    float: left;
+    background:#e2534b;
+    height: 50px;
+    width: 50px;
+    margin-top: 250px; 
+    border-radius: 5px;
+} 
+.next {
+    float: right;
+    background: #e2534b;
+    height: 50px;
+    width: 50px;  
+    margin-right: 0;
+    margin-top: 250px;
+    border-radius: 5px;
+}
+.wirte {
+    float: left;
+    margin-left: 474px;
+    margin-top: 182px;
+} 
+
+/*service*/
+.service {
+    background: #f3f3f3;
+    padding-top: 1px;
+}
+.top-service {
+    display: flex;
+    width: 1463.2px;
+    background: #ececec;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.title-service {
+
+    list-style: none;
+    margin-left: 10px;
+}
+.view-more {
+    margin: 22px 0 32px 125px;
+    padding: 20px 38px;
+    background: #e2534b;
+    border-radius: 5px;
+}
+.title-service1 {
+    color:#7f8c8c;
+    font-size: 24px;
+    height: 38px;
+}
+.title-service2 {
+    color: #777777;
+    font-size: 15px;
+}
+.view-more a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+.read-more {
+    display: flex;
+    width: 1463.2px;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+/* read more first*/
+
+.frame-read-diffrent {
+    height: 346px;
+    background: white;
+    border-radius: 5px;
+}
+.button-read1 {
+    background:#e2534b;
+    padding: 3px 10px;
+    margin: -33px 35px 0 35px;
+    border-radius: 5px;
+}
+
+/*same same*/
+
+.read-mores {
+    width: 325px;
+}
+
+.frame-read-more {
+    height: 346px;
+    background: #f8f8f8;
+    border-radius: 5px;
+}
+.logo-read img {
+    margin: 50px 0 0 118px;
+}
+.logo-read p {
+    font-size: 20px;
+}
+.write-read p {
+    font-size: 14px;
+    margin-top: 25px;
+    line-height: 23px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.button-read {
+    background:#76c7c0;
+    padding: 3px 10px;
+    margin: -33px 35px 0 35px;
+    border-radius: 5px;
+}
+.link-button-read {
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+}
